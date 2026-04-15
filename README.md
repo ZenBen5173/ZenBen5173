@@ -26,5 +26,5 @@ farm management platform for Malaysian smallholder farmers.
 Built for a hackathon in 2 days. Crop disease detection, 
 inventory tracking, AI-generated daily farm plans.
 
-## 📫 Find me here
+## Find me here
 [LinkedIn](https://www.linkedin.com/in/zen-ben)
