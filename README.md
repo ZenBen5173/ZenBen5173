@@ -3,8 +3,8 @@
 Data Analytics undergrad at **Sunway University** (CGPA 3.65). I like building things that actually get used — not just projects that sit on a shelf.
 
 - Co-Founder @ **FlowNote Solutions** — SaaS for SME workflow digitalisation
-- Vice President @ **Sunway University AWS Cloud Club**
-- Based in Klang, Malaysia · open to internships from **March 2026**
+- Vice President @ **Sunway University AWS Student Builder Club**
+- Based in Klang, Malaysia · open to internships from **January 2027**
 
 [Portfolio](https://zen-ben.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zen-ben) · [Email](mailto:teozenben05@gmail.com)
 
