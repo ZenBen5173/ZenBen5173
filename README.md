@@ -2,16 +2,16 @@
 
 I build things that actually get used, not projects that sit on a shelf.
 
-I'm a Data Analytics undergrad at **Sunway University** (CGPA 3.65) who kept noticing the same
+I'm a Data Analytics undergrad at **Sunway University** (CGPA 3.77) who kept noticing the same
 thing: real problems around me, from university bureaucracy to smallholder farms to small
 businesses run out of a WhatsApp group, were waiting on software nobody had bothered to build
 well. So I started building it, mostly as agentic AI systems, and shipping it to real users.
 
-- Co-Founder @ **FlowNote Solutions**, a SaaS for SME workflow digitalisation
+- Building **FlowNote Solutions**, a SaaS for SME workflow digitalisation
 - Vice President @ **Sunway University AWS Student Builder Group**
 - Based in Klang, Malaysia. Open to internships from **January 2027**
 
-[Portfolio](https://zen-ben.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zen-ben) · [Email](mailto:teozenben05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/zen-ben) · [Email](mailto:teozenben05@gmail.com)
 
 ---
 
@@ -19,6 +19,15 @@ well. So I started building it, mostly as agentic AI systems, and shipping it to
 
 Most of my recent work is the same idea pointed at different problems: let an AI *decide and act*
 inside a real workflow, with a human able to see and override every step.
+
+### [Service Desk Command Center](https://github.com/ZenBen5173/service-desk-command-center) · Autopilot Asia 2026, 3rd of 1200+
+
+An AI service desk built on a contrarian idea: the fastest ticket is the one nobody has to raise.
+Rather than closing tickets faster, it clusters them by root cause, proposes the permanent fix for
+each, refuses to act when it should stop, and never reports a metric it can't back with real data.
+Placed 3rd of 1200+ participants in the Customer Support track, built as a team of two.
+
+- **Stack:** Next.js, FastAPI, PostgreSQL, Docker, Supervity Auto agents
 
 ### [UniGuide](https://github.com/ZenBen5173/uniguide) · UMHackathon 2026, 2nd Runner-Up
 
@@ -38,16 +47,8 @@ of bending its process around rigid or paywalled tools. Role-based permissions d
 and each approval routes to specific people. Deployed for a first paying client, a Malaysian
 hardware business.
 
-- **Role:** Co-Founder, end-to-end product development
+- **Role:** Sole developer, end-to-end product development
 - **Stack:** Next.js, TypeScript, Supabase, Tailwind, Vercel
-
-### [Service Desk Command Center](https://github.com/ZenBen5173/service-desk-command-center) · Autopilot Asia 2026
-
-An AI service desk built on a contrarian idea: the fastest ticket is the one nobody has to raise.
-Rather than closing tickets faster, it clusters them by root cause, proposes the permanent fix for
-each, refuses to act when it should stop, and never reports a metric it can't back with real data.
-
-- **Stack:** Next.js, FastAPI, PostgreSQL, Docker, Supervity Auto agents
 
 ### [AgroSim](https://github.com/ZenBen5173/agrosimulator) · MyAI Future Hackathon Finalist
 
@@ -66,12 +67,12 @@ reserved for big commercial operations.
   over Telegram, running on Qwen.
 - **myTask** *(private)* · a task manager you run from WhatsApp: text it in plain language, it works
   out what you meant, keeps your list, and mirrors deadlines to Google Calendar.
+- **[Flight Delay Big Data study](https://github.com/ZenBen5173/IST3134-Flight-Delay-BigData)** · pandas
+  on one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
 - **[Component library](https://github.com/ZenBen5173/component-library)** · 71 UI components with the
   micro-interactions already built in, browsable in a [live gallery](https://component-library-rho.vercel.app/).
 - **[Sound file transfer](https://github.com/ZenBen5173/sound-file-transfer)** · send a link between two
   phones using sound alone, no wifi, pairing, or app install.
-- **[Flight delay Big Data study](https://github.com/ZenBen5173/IST3134-Flight-Delay-BigData)** · pandas on
-  one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
 - **SQL & NoSQL injection demos** · vulnerable-vs-hardened pairs for
   [Oracle](https://github.com/ZenBen5173/oracle-sql-experiment) and
   [MongoDB](https://github.com/ZenBen5173/mongo_nosql_injection), showing the attack and the one change
@@ -83,7 +84,7 @@ reserved for big commercial operations.
 
 - **Data:** Python, SQL, SAS, PostgreSQL, pgvector
 - **Frontend / Backend:** Next.js, TypeScript, React, Tailwind, Supabase
-- **Cloud:** Vercel, AWS (CCNA: Intro to Networks)
+- **Cloud:** AWS, Vercel
 - **AI tooling:** Claude Code, Z.AI GLM, Gemini, Firebase Genkit
 
 ---
