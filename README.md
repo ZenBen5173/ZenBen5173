@@ -1,10 +1,15 @@
 # Hi, I'm Zen Ben
 
-Data Analytics undergrad at **Sunway University** (CGPA 3.65). I like building things that actually get used, not just projects that sit on a shelf.
+I build things that actually get used, not projects that sit on a shelf.
 
-- Co-Founder @ **FlowNote Solutions**, SaaS for SME workflow digitalisation
+I'm a Data Analytics undergrad at **Sunway University** (CGPA 3.65) who kept noticing the same
+thing: real problems around me, from university bureaucracy to smallholder farms to small
+businesses run out of a WhatsApp group, were waiting on software nobody had bothered to build
+well. So I started building it, mostly as agentic AI systems, and shipping it to real users.
+
+- Co-Founder @ **FlowNote Solutions**, a SaaS for SME workflow digitalisation
 - Vice President @ **Sunway University AWS Student Builder Group**
-- Based in Klang, Malaysia · open to internships from **January 2027**
+- Based in Klang, Malaysia. Open to internships from **January 2027**
 
 [Portfolio](https://zen-ben.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zen-ben) · [Email](mailto:teozenben05@gmail.com)
 
@@ -12,39 +17,78 @@ Data Analytics undergrad at **Sunway University** (CGPA 3.65). I like building t
 
 ## What I'm building
 
-### [UniGuide](https://github.com/ZenBen5173/UNiguide), UMHackathon 2026 2nd Runner-Up
+Most of my recent work is the same idea pointed at different problems: let an AI *decide and act*
+inside a real workflow, with a human able to see and override every step.
 
-AI-driven administrative assistant for university students navigating scholarship applications, FYP submissions, deferment requests, and appeals. The system uses Z.AI GLM to emit the next required workflow step at runtime, grounded in official SOPs and applicant history.
+### [UniGuide](https://github.com/ZenBen5173/uniguide) · UMHackathon 2026, 2nd Runner-Up
+
+An AI co-pilot for university paperwork. Instead of a static form, Z.AI's GLM reads the official
+SOP and the applicant's history and emits the next step at runtime, so students are never stuck
+guessing what comes next and coordinators get pre-digested briefings and editable decision letters.
 
 - Three role surfaces: student portal, coordinator inbox, admin dashboard
 - Auto-extracted briefings with confidence scores and SOP citations
 - Letter generation with hallucination checks and a 5-minute decision-undo window
 - **Stack:** Next.js 15, TypeScript, Supabase (Postgres + pgvector + Realtime), Z.AI GLM-4.6, Vercel
 
-### GustFlow, FlowNote Solutions
+### GustFlow · FlowNote Solutions *(in production)*
 
-Multi-tenant SaaS that lets SMEs build their exact task and approval workflows instead of working around rigid or paywalled tools, with granular role-based permissions defining who can act and routing each approval to specific people. Deployed in production for a first paying SME client (a Malaysian hardware business).
+A multi-tenant SaaS that lets a small business model its exact task-and-approval workflow instead
+of bending its process around rigid or paywalled tools. Role-based permissions decide who can act,
+and each approval routes to specific people. Deployed for a first paying client, a Malaysian
+hardware business.
 
 - **Role:** Co-Founder, end-to-end product development
 - **Stack:** Next.js, TypeScript, Supabase, Tailwind, Vercel
 
-### [AgroSim](https://github.com/ZenBen5173/agrosimulator), MyAI Future Hackathon Finalist
+### [Service Desk Command Center](https://github.com/ZenBen5173/service-desk-command-center) · Autopilot Asia 2026
 
-AI-powered farm management app for Malaysian smallholder farmers. Crop disease detection, inventory tracking, and AI-generated daily farm plans. Built in a 2-day hackathon.
+An AI service desk built on a contrarian idea: the fastest ticket is the one nobody has to raise.
+Rather than closing tickets faster, it clusters them by root cause, proposes the permanent fix for
+each, refuses to act when it should stop, and never reports a metric it can't back with real data.
 
-- **Stack:** Next.js, TypeScript, Gemini AI, Firebase Genkit, Vercel
+- **Stack:** Next.js, FastAPI, PostgreSQL, Docker, Supervity Auto agents
+
+### [AgroSim](https://github.com/ZenBen5173/agrosimulator) · MyAI Future Hackathon Finalist
+
+AI farm management for Malaysian smallholder farmers: satellite farm mapping, photo-based crop
+disease detection, and AI-generated daily plans, giving small farms the precision tools normally
+reserved for big commercial operations.
+
+- **Stack:** Next.js, TypeScript, Gemini AI, Firebase Genkit, Supabase
+
+---
+
+## More things I've built
+
+- **[HelpMeGuru](https://github.com/ZenBen5173/helpmeguru)** · Devin x Qwen Hackathon. An AI mentor
+  that reads a project brief and hands each student in a group a *different* role with a reason,
+  over Telegram, running on Qwen.
+- **myTask** *(private)* · a task manager you run from WhatsApp: text it in plain language, it works
+  out what you meant, keeps your list, and mirrors deadlines to Google Calendar.
+- **[Component library](https://github.com/ZenBen5173/component-library)** · 71 UI components with the
+  micro-interactions already built in, browsable in a [live gallery](https://component-library-rho.vercel.app/).
+- **[Sound file transfer](https://github.com/ZenBen5173/sound-file-transfer)** · send a link between two
+  phones using sound alone, no wifi, pairing, or app install.
+- **[Flight delay Big Data study](https://github.com/ZenBen5173/IST3134-Flight-Delay-BigData)** · pandas on
+  one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
+- **SQL & NoSQL injection demos** · vulnerable-vs-hardened pairs for
+  [Oracle](https://github.com/ZenBen5173/oracle-sql-experiment) and
+  [MongoDB](https://github.com/ZenBen5173/mongo_nosql_injection), showing the attack and the one change
+  that stops it.
 
 ---
 
 ## Toolbox
 
-- **Data** · Python, SQL, SAS, PostgreSQL, pgvector
-- **Frontend/Backend** · Next.js, TypeScript, React, Tailwind, Supabase
-- **Cloud** · Vercel, AWS (CCNA: Intro to Networks)
-- **AI tooling** · Claude Code, Z.AI GLM, Gemini, Firebase Genkit
+- **Data:** Python, SQL, SAS, PostgreSQL, pgvector
+- **Frontend / Backend:** Next.js, TypeScript, React, Tailwind, Supabase
+- **Cloud:** Vercel, AWS (CCNA: Intro to Networks)
+- **AI tooling:** Claude Code, Z.AI GLM, Gemini, Firebase Genkit
 
 ---
 
 ## Currently learning
 
-Agentic workflow design, vector search and retrieval, and how to make AI systems that actually behave well in production.
+Agentic workflow design, vector search and retrieval, and how to make AI systems that actually
+behave well in production.
