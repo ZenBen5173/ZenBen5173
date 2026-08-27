@@ -65,8 +65,10 @@ reserved for big commercial operations.
 - **[HelpMeGuru](https://github.com/ZenBen5173/helpmeguru)** · Devin x Qwen Hackathon. An AI mentor
   that reads a project brief and hands each student in a group a *different* role with a reason,
   over Telegram, running on Qwen.
-- **myTask** *(private)* · a task manager you run from WhatsApp: text it in plain language, it works
-  out what you meant, keeps your list, and mirrors deadlines to Google Calendar.
+- **myTask** *(private)* · a full task manager with a web dashboard (list, board, table and
+  calendar views, workload and completion charts) plus a WhatsApp way in: text it in plain
+  language and an AI turns it into a task, mirrored to Google Calendar. It also tracks its own
+  running cost and connection health.
 - **[Flight Delay Big Data study](https://github.com/ZenBen5173/IST3134-Flight-Delay-BigData)** · pandas
   on one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
 - **[Component library](https://github.com/ZenBen5173/component-library)** · 71 UI components with the
