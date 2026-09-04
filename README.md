@@ -96,9 +96,13 @@ gallery so you see the real thing moving before you copy it out. **[Browse it li
 
 ### myTask *(private)* · WhatsApp-native task manager
 
+<img src="assets/mytask-dashboard.png" alt="myTask dashboard" width="760">
+
 A full task manager with a web dashboard (list, board, table and calendar views, plus workload
 and completion charts) and a WhatsApp way in: text it in plain language and an AI turns it into a
 task, mirrored to Google Calendar. It also tracks its own running cost and connection health.
+
+<img src="assets/mytask-tasks.png" alt="myTask tasks view" width="380"> <img src="assets/mytask-notes.png" alt="myTask notes view" width="380">
 
 - **Stack:** Next.js, Supabase, Anthropic Claude, WhatsApp Cloud API, Google Calendar
 
