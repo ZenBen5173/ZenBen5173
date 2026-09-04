@@ -93,6 +93,15 @@ gallery so you see the real thing moving before you copy it out. **[Browse it li
 
 - **Stack:** Next.js, Radix Colors, shadcn/ui, Motion, TypeScript
 
+
+### myTask *(private)* · WhatsApp-native task manager
+
+A full task manager with a web dashboard (list, board, table and calendar views, plus workload
+and completion charts) and a WhatsApp way in: text it in plain language and an AI turns it into a
+task, mirrored to Google Calendar. It also tracks its own running cost and connection health.
+
+- **Stack:** Next.js, Supabase, Anthropic Claude, WhatsApp Cloud API, Google Calendar
+
 ---
 
 ## More things I've built
@@ -100,10 +109,6 @@ gallery so you see the real thing moving before you copy it out. **[Browse it li
 - **[HelpMeGuru](https://github.com/ZenBen5173/helpmeguru)** · Devin x Qwen Hackathon. An AI mentor
   that reads a project brief and hands each student in a group a *different* role with a reason,
   over Telegram, running on Qwen.
-- **myTask** *(private)* · a full task manager with a web dashboard (list, board, table and
-  calendar views, workload and completion charts) plus a WhatsApp way in: text it in plain
-  language and an AI turns it into a task, mirrored to Google Calendar. It also tracks its own
-  running cost and connection health.
 - **[Flight Delay Big Data study](https://github.com/ZenBen5173/IST3134-Flight-Delay-BigData)** · pandas
   on one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
 - **SQL & NoSQL injection demos** · vulnerable-vs-hardened pairs for
