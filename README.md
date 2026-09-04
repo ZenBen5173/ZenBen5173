@@ -124,6 +124,7 @@ can survive being carried across dozens of lossy chirps, joining mid-transfer an
 **AI tooling**
 <br />
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white" alt="Claude API" />
 <img src="https://img.shields.io/badge/Z.AI%20GLM-4f46e5" alt="Z.AI GLM" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Firebase%20Genkit-FFCA28?logo=firebase&logoColor=black" alt="Firebase Genkit" />
