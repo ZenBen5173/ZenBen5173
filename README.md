@@ -75,6 +75,16 @@ can survive being carried across dozens of lossy chirps, joining mid-transfer an
 
 - **Stack:** vanilla HTML/CSS/JS, ggwave (audio modem), Web Crypto (AES-GCM), a GF(2) fountain code
 
+
+### [Component library](https://github.com/ZenBen5173/component-library) · 77 components, live gallery
+
+Ever let the AI scaffold your UI and get handed the same generic grey card, the hundredth time?
+I built a shelf of 77 components I picked and tuned myself, each with the micro-interactions
+already baked in (hover reveals, cursor tracking, staggered entrances), browsable in a live
+gallery so you see the real thing moving before you copy it out. **[Browse it live](https://component-library-rho.vercel.app/)**.
+
+- **Stack:** Next.js, Radix Colors, shadcn/ui, Motion, TypeScript
+
 ---
 
 ## More things I've built
@@ -88,8 +98,6 @@ can survive being carried across dozens of lossy chirps, joining mid-transfer an
   running cost and connection health.
 - **[Flight Delay Big Data study](https://github.com/ZenBen5173/IST3134-Flight-Delay-BigData)** · pandas
   on one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
-- **[Component library](https://github.com/ZenBen5173/component-library)** · 77 UI components with the
-  micro-interactions already built in, browsable in a [live gallery](https://component-library-rho.vercel.app/).
 - **SQL & NoSQL injection demos** · vulnerable-vs-hardened pairs for
   [Oracle](https://github.com/ZenBen5173/oracle-sql-experiment) and
   [MongoDB](https://github.com/ZenBen5173/mongo_nosql_injection), showing the attack and the one change
