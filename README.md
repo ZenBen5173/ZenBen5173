@@ -58,6 +58,16 @@ reserved for big commercial operations.
 
 - **Stack:** Next.js, TypeScript, Gemini AI, Firebase Genkit, Supabase
 
+
+### [Sound file transfer](https://github.com/ZenBen5173/sound-file-transfer) · data over sound
+
+Chirp moves a link or a note between two phones using sound alone: one phone plays a short
+musical chirp, the other listens and reads it back. No wifi, no Bluetooth pairing, no camera,
+no app install. It is a static site with no build step, and it uses a fountain code so an image
+can survive being carried across dozens of lossy chirps, joining mid-transfer and still finishing.
+
+- **Stack:** vanilla HTML/CSS/JS, ggwave (audio modem), Web Crypto (AES-GCM), a GF(2) fountain code
+
 ---
 
 ## More things I've built
@@ -73,8 +83,6 @@ reserved for big commercial operations.
   on one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
 - **[Component library](https://github.com/ZenBen5173/component-library)** · 71 UI components with the
   micro-interactions already built in, browsable in a [live gallery](https://component-library-rho.vercel.app/).
-- **[Sound file transfer](https://github.com/ZenBen5173/sound-file-transfer)** · send a link between two
-  phones using sound alone, no wifi, pairing, or app install.
 - **SQL & NoSQL injection demos** · vulnerable-vs-hardened pairs for
   [Oracle](https://github.com/ZenBen5173/oracle-sql-experiment) and
   [MongoDB](https://github.com/ZenBen5173/mongo_nosql_injection), showing the attack and the one change
