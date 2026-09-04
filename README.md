@@ -64,7 +64,7 @@ reserved for big commercial operations.
 Chirp moves a link or a note between two phones using sound alone: one phone plays a short
 musical chirp, the other listens and reads it back. No wifi, no Bluetooth pairing, no camera,
 no app install. It is a static site with no build step, and it uses a fountain code so an image
-can survive being carried across dozens of lossy chirps, joining mid-transfer and still finishing.
+can survive being carried across dozens of lossy chirps, joining mid-transfer and still finishing. **[Try it live](https://sound-file-transfer.vercel.app/)** on two phones.
 
 - **Stack:** vanilla HTML/CSS/JS, ggwave (audio modem), Web Crypto (AES-GCM), a GF(2) fountain code
 
