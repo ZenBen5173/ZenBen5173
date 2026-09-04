@@ -127,10 +127,3 @@ can survive being carried across dozens of lossy chirps, joining mid-transfer an
 <img src="https://img.shields.io/badge/Z.AI%20GLM-4f46e5" alt="Z.AI GLM" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Firebase%20Genkit-FFCA28?logo=firebase&logoColor=black" alt="Firebase Genkit" />
-
----
-
-## Currently learning
-
-Agentic workflow design, vector search and retrieval, and how to make AI systems that actually
-behave well in production.
