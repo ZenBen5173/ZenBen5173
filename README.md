@@ -30,6 +30,8 @@ inside a real workflow, with a human able to see and override every step.
 
 ### [Service Desk Command Center](https://github.com/ZenBen5173/service-desk-command-center) · Autopilot Asia 2026, 3rd of 1200+
 
+<a href="https://github.com/ZenBen5173/service-desk-command-center"><img src="assets/service-desk.png" alt="Service Desk Command Center" width="640"></a>
+
 An AI service desk built on a contrarian idea: the fastest ticket is the one nobody has to raise.
 Rather than closing tickets faster, it clusters them by root cause, proposes the permanent fix for
 each, refuses to act when it should stop, and never reports a metric it can't back with real data.
@@ -38,6 +40,8 @@ Placed 3rd of 1200+ participants in the Customer Support track, built as a team 
 - **Stack:** Next.js, FastAPI, PostgreSQL, Docker, Supervity Auto agents
 
 ### [UniGuide](https://github.com/ZenBen5173/uniguide) · UMHackathon 2026, 2nd Runner-Up
+
+<a href="https://github.com/ZenBen5173/uniguide"><img src="assets/uniguide.png" alt="UniGuide" width="640"></a>
 
 An AI co-pilot for university paperwork. Instead of a static form, Z.AI's GLM reads the official
 SOP and the applicant's history and emits the next step at runtime, so students are never stuck
@@ -68,6 +72,8 @@ reserved for big commercial operations.
 
 ### [Sound file transfer](https://github.com/ZenBen5173/sound-file-transfer) · data over sound
 
+<a href="https://github.com/ZenBen5173/sound-file-transfer"><img src="assets/sound-file-transfer.png" alt="Sound file transfer" width="640"></a>
+
 Chirp moves a link or a note between two phones using sound alone: one phone plays a short
 musical chirp, the other listens and reads it back. No wifi, no Bluetooth pairing, no camera,
 no app install. It is a static site with no build step, and it uses a fountain code so an image
@@ -77,6 +83,8 @@ can survive being carried across dozens of lossy chirps, joining mid-transfer an
 
 
 ### [Component library](https://github.com/ZenBen5173/component-library) · 77 components, live gallery
+
+<a href="https://github.com/ZenBen5173/component-library"><img src="assets/component-library.png" alt="Component library" width="640"></a>
 
 Ever let the AI scaffold your UI and get handed the same generic grey card, the hundredth time?
 I built a shelf of 77 components I picked and tuned myself, each with the micro-interactions
