@@ -1,6 +1,17 @@
-# Hi, I'm Zen Ben
+<h1 align="center">Hi, I'm Zen Ben 👋</h1>
 
-I build things that actually get used, not projects that sit on a shelf.
+<p align="center">
+  I build things that actually get used, not projects that sit on a shelf.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Klang%2C%20Malaysia-4f46e5" alt="Klang, Malaysia" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20(Jan%202027)-brightgreen" alt="Open to internships from January 2027" />
+  <a href="https://www.linkedin.com/in/zen-ben"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:teozenben05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
 
 I'm a Data Analytics undergrad at **Sunway University** (CGPA 3.77) who kept noticing the same
 thing: real problems around me, from university bureaucracy to smallholder farms to small
@@ -9,9 +20,6 @@ well. So I started building it, mostly as agentic AI systems, and shipping it to
 
 - Building **FlowNote Solutions**, a SaaS for SME workflow digitalisation
 - Vice President @ **Sunway University AWS Student Builder Group**
-- Based in Klang, Malaysia. Open to internships from **January 2027**
-
-[LinkedIn](https://www.linkedin.com/in/zen-ben) · [Email](mailto:teozenben05@gmail.com)
 
 ---
 
@@ -58,7 +66,6 @@ reserved for big commercial operations.
 
 - **Stack:** Next.js, TypeScript, Gemini AI, Firebase Genkit, Supabase
 
-
 ### [Sound file transfer](https://github.com/ZenBen5173/sound-file-transfer) · data over sound
 
 Chirp moves a link or a note between two phones using sound alone: one phone plays a short
@@ -81,7 +88,7 @@ can survive being carried across dozens of lossy chirps, joining mid-transfer an
   running cost and connection health.
 - **[Flight Delay Big Data study](https://github.com/ZenBen5173/IST3134-Flight-Delay-BigData)** · pandas
   on one machine vs. PySpark on AWS EMR, benchmarked over 62M flight records.
-- **[Component library](https://github.com/ZenBen5173/component-library)** · 71 UI components with the
+- **[Component library](https://github.com/ZenBen5173/component-library)** · 77 UI components with the
   micro-interactions already built in, browsable in a [live gallery](https://component-library-rho.vercel.app/).
 - **SQL & NoSQL injection demos** · vulnerable-vs-hardened pairs for
   [Oracle](https://github.com/ZenBen5173/oracle-sql-experiment) and
@@ -92,10 +99,34 @@ can survive being carried across dozens of lossy chirps, joining mid-transfer an
 
 ## Toolbox
 
-- **Data:** Python, SQL, SAS, PostgreSQL, pgvector
-- **Frontend / Backend:** Next.js, TypeScript, React, Tailwind, Supabase
-- **Cloud:** AWS, Vercel
-- **AI tooling:** Claude Code, Z.AI GLM, Gemini, Firebase Genkit
+**Data**
+<br />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SAS-0766D1?logo=sas&logoColor=white" alt="SAS" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/pgvector-4169E1" alt="pgvector" />
+
+**Frontend / Backend**
+<br />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+
+**Cloud**
+<br />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+
+**AI tooling**
+<br />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Z.AI%20GLM-4f46e5" alt="Z.AI GLM" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Firebase%20Genkit-FFCA28?logo=firebase&logoColor=black" alt="Firebase Genkit" />
 
 ---
 
