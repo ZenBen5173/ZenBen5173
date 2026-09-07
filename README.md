@@ -119,6 +119,12 @@ task, mirrored to Google Calendar. It also tracks its own running cost and conne
   [Oracle](https://github.com/ZenBen5173/oracle-sql-experiment) and
   [MongoDB](https://github.com/ZenBen5173/mongo_nosql_injection), showing the attack and the one change
   that stops it.
+- **[Lumie World](https://github.com/Thevesh-Chandran/Lumie-World)** · an AI language-learning
+  companion with character chat, gamified roadmaps, and Amazon Polly voice, built with
+  [@Thevesh-Chandran](https://github.com/Thevesh-Chandran) at one of my first hackathons. Python.
+- **[Swytch](https://github.com/Thevesh-Chandran/Breaking-Bad-payhack)** · a Flutter fintech app
+  for seamless payment-mode switching, built with
+  [@Thevesh-Chandran](https://github.com/Thevesh-Chandran) for the Pay Hack hackathon. Dart.
 
 ---
 
