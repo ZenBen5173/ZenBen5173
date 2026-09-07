@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zen Ben 👋</h1>
 
 <p align="center">
-  I build things that actually get used, not projects that sit on a shelf.
+  I love to build things, and super fascinated by AI building and generation these days.
 </p>
 
 <p align="center">
