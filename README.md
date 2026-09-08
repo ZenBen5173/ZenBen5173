@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Klang%2C%20Malaysia-4f46e5" alt="Klang, Malaysia" />
   <img src="https://img.shields.io/badge/Open%20to-Internships%20(Jan%202027)-brightgreen" alt="Open to internships from January 2027" />
+  <a href="https://portfolio.gustflow.app"><img src="https://img.shields.io/badge/Portfolio-portfolio.gustflow.app-4f46e5?logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/zen-ben"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:teozenben05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -20,6 +21,7 @@ well. So I started building it, mostly as agentic AI systems, and shipping it to
 
 - Building **FlowNote Solutions**, a SaaS for SME workflow digitalisation
 - Vice President @ **Sunway University AWS Student Builder Group**
+- Everything in one place: **[portfolio.gustflow.app](https://portfolio.gustflow.app)**
 
 ---
 
