@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zen Ben 👋</h1>
 
 <p align="center">
-  I love to build things, and super fascinated by AI building and generation these days.
+  I love building with data, AI, and the cloud, and I'm all-in on agentic AI right now.
 </p>
 
 <p align="center">
