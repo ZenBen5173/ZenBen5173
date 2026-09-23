@@ -1,27 +1,24 @@
 <h1 align="center">Hi, I'm Zen Ben 👋</h1>
 
 <p align="center">
-  I love building with data, AI, and the cloud, and I'm all-in on agentic AI right now.
+  Final-year Data Analytics student at Sunway University, building with data, AI, and the cloud.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Klang%2C%20Malaysia-4f46e5" alt="Klang, Malaysia" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20(Jan%202027)-brightgreen" alt="Open to internships from January 2027" />
-  <a href="https://portfolio.gustflow.app"><img src="https://img.shields.io/badge/Portfolio-portfolio.gustflow.app-4f46e5?logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/4x-Hackathon%20Winner-gold" alt="4x Hackathon Winner" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20(late%20Jan%202027)-brightgreen" alt="Open to internships from late January 2027" />
   <a href="https://www.linkedin.com/in/zen-ben"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:teozenben05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-I'm a Data Analytics undergrad at **Sunway University** (CGPA 3.77) who kept noticing the same
-thing: real problems around me, from university bureaucracy to smallholder farms to small
-businesses run out of a WhatsApp group, were waiting on software nobody had bothered to build
-well. So I started building it, mostly as agentic AI systems, and shipping it to real users.
-
-- Building **FlowNote Solutions**, a SaaS for SME workflow digitalisation
-- Vice President @ **Sunway University AWS Student Builder Group**
-- Everything in one place: **[portfolio.gustflow.app](https://portfolio.gustflow.app)**
+- ☁️ **AWS Certified Cloud Practitioner** · VP, Sunway AWS Student Builder Group
+- 🛠️ **Co-founder** @ FlowNote Solutions
+- 🏆 **4x Hackathon Winner** (incl. Champion, AI Video Hackathon 2026)
+- 📊 Python · SQL · Power BI · Machine Learning · Big Data on AWS
+- 📌 Available for a **full-time internship from late January 2027** (final semester ends 25 Jan)
 
 ---
 
