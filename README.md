@@ -18,7 +18,7 @@
 - 🛠️ **Co-founder** @ FlowNote Solutions
 - 🏆 **4x Hackathon Winner** (incl. Champion, AI Video Hackathon 2026)
 - 📊 Python · SQL · Power BI · Machine Learning · Big Data on AWS
-- 📌 Available for a **full-time internship from late January 2027** (final semester ends 25 Jan)
+- 📌 Available for a **full-time internship from late January 2027** (final semester ends 19 Jan)
 
 ---
 
